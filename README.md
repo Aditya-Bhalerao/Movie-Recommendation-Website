@@ -12,6 +12,8 @@ The system is developed using Django, a high-level Python web framework, to prov
 
 ## How it Works
 
+https://github.com/Aditya-Bhalerao/Movie-Recommendation-Website/assets/97020184/27122a10-4f0d-470d-8cf8-0d05eeef1c49
+
 The movie recommendation system leverages the concept of Cosine Similarity to suggest similar movies to the user. Here's how it works for each recommendation option:
 
 1. **Movie Description Based Recommendation:**
